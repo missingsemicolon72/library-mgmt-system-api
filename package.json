@@ -1,0 +1,24 @@
+{
+  "name": "library-management-system-api",
+  "version": "1.0.0",
+  "description": "An API to manage the collection of books in a library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library",
+    "library",
+    "management",
+    "system",
+    "lms",
+    "api"
+  ],
+  "author": "Vijay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3"
+  }
+}
